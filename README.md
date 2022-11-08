@@ -3,9 +3,9 @@
 
 # **_DATA SCIENTIST AND ELECTRONIC ENGINEER STUDENT_ 🦾😎🚀**
 
-## **Data Science = My Passion!!!**
-## **My curiosity = My Tool!!!**
-## **Knowledge = My way!!!**
+ **Data Science = My Passion!!!**
+ **My curiosity = My Tool!!!**
+ **Knowledge = My way!!!**
 #
 
 > # **_Some projects..._**
