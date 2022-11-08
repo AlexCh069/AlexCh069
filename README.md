@@ -1,12 +1,12 @@
 # **_Hi there, I'm Diego!_** 🏁🚀
 ![Image text](800x400_3_0.jpg)
 
-# **_DATA SCIENTIST AND ELECTRONIC ENGINEER STUDENT_ 🦾😎🚀**
+> # **_DATA SCIENTIST AND ELECTRONIC ENGINEER STUDENT_ 🦾😎🚀**
 
- **Data Science = My Passion!!!**
- **My curiosity = My Tool!!!**
- **Knowledge = My way!!!**
-#
+### **Data Science = My Passion!!!**
+### **My curiosity = My Tool!!!**
+### **Knowledge = My way!!!**7
+
 
 > # **_Some projects..._**
 
