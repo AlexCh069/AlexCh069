@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 **AlexCh069/AlexCh069** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Image text](software-de-base-de-datos-gratuitos-de-codigo-abierto.png)
 
 Here are some ideas to get you started:
 
