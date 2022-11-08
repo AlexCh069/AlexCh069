@@ -5,7 +5,7 @@
 
 ### **Data Science = My Passion!!!**
 ### **My curiosity = My Tool!!!**
-### **Knowledge = My way!!!**7
+### **Knowledge = My way!!!**
 
 
 > # **_Some projects..._**
